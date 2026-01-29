@@ -16,12 +16,12 @@ const HeroSection = () => {
             Indulge in art of scent - discover perfumes that define your
             elegence
           </p>
-          <a href="">
+          <a href="https://wa.link/wrqx73" target="_blank">
             <button>Order Now</button>
           </a>
           <div className="W-icon">
             <a
-              href="https:wa.me/23232214003"
+              href="https://wa.link/wrqx73"
               target="_blank"
               rel="noopener noreferre"
               className="whatsapp-icon"

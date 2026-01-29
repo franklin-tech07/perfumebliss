@@ -3,7 +3,12 @@
   padding: 0%;
   text-align: center;
   box-sizing: border-box;
-  font-family: The "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family:
+    The "Segoe UI",
+    Tahoma,
+    Geneva,
+    Verdana,
+    sans-serif;
 }
 #heroSection {
   height: 100vh;
@@ -79,7 +84,10 @@
   justify-content: center;
   align-items: center;
   /* Smooth hover transition */
-  transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease,
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease,
+    background 0.3s ease,
     color 0.3s ease;
   background-color: aliceblue;
 }
@@ -152,7 +160,9 @@
   font-size: 20px;
   color: #a08b6a;
   animation: bounce 2s infinite;
-  transition: 0.3s ease, color 0.3s ease;
+  transition:
+    0.3s ease,
+    color 0.3s ease;
   text-decoration: none;
 }
 .seeMore:hover {
@@ -172,20 +182,22 @@
   color: #695b1e;
 }
 
-.cards button {
+.WhatsAppButton {
   height: 30px;
   width: 130px;
   font-size: 15px;
-  background-color: #a08b6a;
+  background-color: #bea885;
   border: none;
   border-radius: 15px;
-  transition: 0.3s ease, color 0.3s ease;
+  transition:
+    0.3s ease,
+    color 0.3s ease;
   transition-duration: 1s;
   color: #ffffff;
   margin-top: 20px;
 }
 
-.cards button:hover {
+.WhatsAppButton:hover {
   background-color: #a7480a;
 }
 
@@ -310,7 +322,9 @@
   text-decoration: none;
   color: #695b1e;
   animation: bounce 2s infinite;
-  transition: 0.3s ease, color 0.3s ease;
+  transition:
+    0.3s ease,
+    color 0.3s ease;
   display: flex;
   justify-content: center;
   padding-left: 20px;

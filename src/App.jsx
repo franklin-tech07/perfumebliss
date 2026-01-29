@@ -7,12 +7,14 @@ import "./App.css";
 
 function App() {
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/collection" element={<Collection />} />
-      </Routes>
-    </BrowserRouter>
+    <>
+      <BrowserRouter basename="/perfumebliss">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/collection" element={<Collection />} />
+        </Routes>
+      </BrowserRouter>
+    </>
   );
 }
 

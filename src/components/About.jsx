@@ -19,7 +19,7 @@ const About = () => {
       <div className="contacts">
         <div className="Cicons">
           <a
-            href="https:wa.me/23232214003"
+            href="https://wa.me/23232214003"
             target="_blank"
             rel="noopener noreferre"
             className="C-icon"
@@ -27,7 +27,7 @@ const About = () => {
             <FaFacebook color="#0866ff" />
           </a>
           <a
-            href="https:wa.me/23232214003"
+            href="https://wa.me/23232214003"
             target="_blank"
             rel="noopener noreferre"
             className="C-icon"
@@ -35,7 +35,7 @@ const About = () => {
             <FaInstagram color="#e93362" />
           </a>
           <a
-            href="https:wa.me/23232214003"
+            href="https://wa.link/wrqx73"
             target="_blank"
             rel="noopener noreferre"
             className="C-icon"
@@ -43,7 +43,7 @@ const About = () => {
             <FaWhatsapp color="#65cf72" />
           </a>
           <a
-            href="https:wa.me/23232214003"
+            href="https://wa.me/23232214003"
             target="_blank"
             rel="noopener noreferre"
             className="C-icon"
