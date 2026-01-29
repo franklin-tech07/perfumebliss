@@ -53,11 +53,11 @@ const About = () => {
         </div>
         <p>@perfumebliss.ig</p>
         <p>@perfumebliss.fb</p>
-        <p>+232 32214003</p>
+        <p>+232 00000000</p>
         <p>@perfumebliss.tt</p>
       </div>
       <div className="footer">
-        <p>Location: No. 22 Lumely Mall, Freetown</p>
+        <p>Location:......., Freetown</p>
         <p>info@perfumebliss.com</p>
       </div>
     </>
